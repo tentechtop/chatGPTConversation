@@ -1,0 +1,2 @@
+# chatGPTConversation
+基于OPEN Ai的chatGPT的智能对话客服，技术栈SpringBoot+VUE3+redis+Es支持关键词相似命中回复和chatGPT回复
